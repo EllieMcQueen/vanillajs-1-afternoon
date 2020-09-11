@@ -1,5 +1,5 @@
 
-const board = [];
+let board = [];
 
 function play(clickedId) {
   const playerSpan = document.getElementById('player');
